@@ -1,3 +1,6 @@
+![ADN's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbabacarDieneNdiaye&show_icons=true&theme=radical)
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbabacarDieneNdiaye&theme=neon-dark)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=AbabacarDieneNdiaye)
