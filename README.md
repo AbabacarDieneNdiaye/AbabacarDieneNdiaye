@@ -1,3 +1,7 @@
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbabacarDieneNdiaye1&theme=neon-dark)](https://git.io/streak-stats)
+
+
+
 - 👋 Hi, I’m @AbabacarDieneNdiaye
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently working with Angular 10+, Nest JS, Spring Boot and Flutter technologies 
