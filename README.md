@@ -1,6 +1,6 @@
-[![](https://img.shields.io/badge/-@xiaoluoboding-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/xiaoluoboding)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/xiaoluoboding)
-# [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xlbd.me)
+[![](https://img.shields.io/badge/-@adn_only-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/adn_only)
+[![](https://img.shields.io/badge/-@AbabacarDieneNdiaye-%23181717?style=flat-square&logo=github)](https://github.com/AbabacarDieneNdiaye)
+[![](https://img.shields.io/badge/-@in/ababacar-diene-ndiaye-%23181717?style=flat-square&logo=github)](https://www.linkedin.com/in/ababacar-diene-ndiaye-107b5bb9/)
 
 𝑰 ❤️ Software 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
@@ -16,8 +16,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-%232c3e50?style=flat-square&logo=vuedotjs)
+![Nestjs](https://img.shields.io/badge/-Nestjs-%232c3e50?style=flat-square&logo=vuedotjs)
+![Java](https://img.shields.io/badge/-Java-%23282C34?style=flat-square&logo=react)
+![pringBoot](https://img.shields.io/badge/-SpringBoot-%23282C34?style=flat-square&logo=react)
 
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
