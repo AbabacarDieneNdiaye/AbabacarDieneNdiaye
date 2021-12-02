@@ -27,12 +27,7 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=xiaoluoboding&show_icons=true&theme=dracula)
-
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-
-![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=xiaoluoboding.xiaoluoboding)
-
+![Ababacar's github stats](https://github-readme-stats.vercel.app/api?username=AbabacarDieneNdiaye&show_icons=true&theme=dracula)
 
 
 ![ADN's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbabacarDieneNdiaye&show_icons=true&theme=chartreuse-dark)
@@ -42,14 +37,6 @@
 
 ![](https://komarev.com/ghpvc/?username=AbabacarDieneNdiaye)
 
-
-- 👋 Hi, I’m @AbabacarDieneNdiaye
-- 👀 I’m interested in Software Development 
-- 🌱 I’m currently working with Angular 10+, Nest JS, Spring Boot and Flutter technologies 
-- 💞️ I’m looking to collaborate on projects which can help improve my skills
-- 📫 How to reach me 
-      Twitter: @adn_only
-      Gmail: ababacardienendiaye.dev@gmail.com
 
 <!---
 AbabacarDieneNdiaye/AbabacarDieneNdiaye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
