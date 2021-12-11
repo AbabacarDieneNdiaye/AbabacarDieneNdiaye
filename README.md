@@ -4,7 +4,7 @@
 
 𝑰 ❤️ Software 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
-:computer: Full Stack Developer, 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒃𝒂𝒔𝒆𝒅 𝒊𝒏 Senegal , 𝒂𝒕 [qualitycenter.fr](https://qualitycenter.fr).
+:computer: Full Stack Developer, 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒃𝒂𝒔𝒆𝒅 𝒊𝒏 Senegal
 
 :vulcan_salute: 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒂𝒏𝒅 𝑰'𝒎 an angular & nest JS 𝒏𝒆𝒓𝒅.
 
@@ -27,15 +27,10 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![Ababacar's github stats](https://github-readme-stats.vercel.app/api?username=AbabacarDieneNdiaye&show_icons=true&theme=dracula)
-
-
 ![ADN's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbabacarDieneNdiaye&show_icons=true&theme=chartreuse-dark)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbabacarDieneNdiaye&theme=chartreuse-dark)](https://git.io/streak-stats)
-
-![](https://komarev.com/ghpvc/?username=AbabacarDieneNdiaye)
 
 
 <!---
