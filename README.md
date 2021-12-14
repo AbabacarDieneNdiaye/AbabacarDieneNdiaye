@@ -1,5 +1,5 @@
 <img
-src=“assets/github_banner_adn.gif”
+src=“https://github.com/AbabacarDieneNdiaye/AbabacarDieneNdiaye/blob/main/assets/github_banner_adn.gif”
 raw=true
 alt=“banner”
 style=“margin-right: 0px;”
