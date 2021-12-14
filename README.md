@@ -1,9 +1,4 @@
-<img
-src=“./github_banner_adn.gif”
-raw=true
-alt=“banner”
-style=“margin-right: 0px;”
-/>
+
 [![](https://img.shields.io/badge/-@adn_only-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/adn_only)
 [![](https://img.shields.io/badge/-@AbabacarDieneNdiaye-%23181717?style=flat-square&logo=github)](https://github.com/AbabacarDieneNdiaye)
 [![](https://img.shields.io/badge/-@in/ababacar-diene-ndiaye-%23181717?style=flat-square&logo=github)](https://www.linkedin.com/in/ababacar-diene-ndiaye-107b5bb9/)
